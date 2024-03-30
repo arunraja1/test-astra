@@ -1,0 +1,8 @@
+# This is a dummy file
+# It doesn't do anything
+
+def dummy_function():
+    pass
+
+if __name__ == "__main__":
+    dummy_function()
